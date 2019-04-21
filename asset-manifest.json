@@ -1,14 +1,14 @@
 {
-  "main.css": "/rak-test-website/static/css/main.35534d2e.chunk.css",
-  "main.js": "/rak-test-website/static/js/main.52142988.chunk.js",
-  "main.js.map": "/rak-test-website/static/js/main.52142988.chunk.js.map",
-  "runtime~main.js": "/rak-test-website/static/js/runtime~main.dd129801.js",
-  "runtime~main.js.map": "/rak-test-website/static/js/runtime~main.dd129801.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/rak-test-website/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/rak-test-website/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/rak-test-website/index.html",
-  "precache-manifest.20ed3aed86a949ea04e8df265507bf55.js": "/rak-test-website/precache-manifest.20ed3aed86a949ea04e8df265507bf55.js",
-  "service-worker.js": "/rak-test-website/service-worker.js",
-  "static/css/main.35534d2e.chunk.css.map": "/rak-test-website/static/css/main.35534d2e.chunk.css.map",
-  "static/media/logo.svg": "/rak-test-website/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.35534d2e.chunk.css",
+  "main.js": "/static/js/main.45afe906.chunk.js",
+  "main.js.map": "/static/js/main.45afe906.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.649c8b647670f38f1def049feb6f636b.js": "/precache-manifest.649c8b647670f38f1def049feb6f636b.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.35534d2e.chunk.css.map": "/static/css/main.35534d2e.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
