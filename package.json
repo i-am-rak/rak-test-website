@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raknahsa.github.io/rak-test-website",
+  "homepage": "https://anuraags.dev",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
