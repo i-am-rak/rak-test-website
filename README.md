@@ -8,14 +8,14 @@ Built using node.js + ReactJS
 
 Sources:
 
-Create React App
+Create React App  
 https://github.com/facebook/create-react-app
 
-React Sidebar
+React Sidebar  
 https://github.com/negomi/react-burger-menu
 
-gh-pages React Deployment
+gh-pages React Deployment  
 https://github.com/gitname/react-gh-pages
 
-reactstrap
+reactstrap  
 https://github.com/reactstrap/reactstrap
