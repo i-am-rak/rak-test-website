@@ -3,6 +3,7 @@
 }
 
 .App {
+  background-color: #f0f1f4;
   text-align: center;
   box-shadow: none;
 }
@@ -13,17 +14,30 @@
   pointer-events: none;
 }
 
+.App-icon {
+  height: 30vmin;
+  pointer-events: none;
+}
+
+.App-down {
+  height: 5vmin;
+  pointer-events: none;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #f0f1f4;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
+.App-header-p {
+    font-size: calc(8px + 2vmin);
+}
 .App-link {
 	color: #61dafb;
 }
@@ -49,7 +63,7 @@
   position: fixed;
   width: 36px;
   height: 30px;
-  left: 36px;
+  left: 15px;
   top: 36px;
 }
 
