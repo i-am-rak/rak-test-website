@@ -8,7 +8,7 @@ export default props => {
 				Home
 			</a>
 
-			<a className ="menu-item" href = "/">
+			<a className ="menu-item" href = "https://github.com/raknahsa?tab=repositories">
 				Projects
 			</a>
 		</Menu>

@@ -32,27 +32,25 @@ class App extends Component {
     return (
 		<div className="App">
 			<SideBar />
+
             <header className="App-header">
                 <img src={logo} alt="logo" className = "App-icon"/>
-                <h2>
+                <h1 className = "App-header-t">
                     Anuraag Shankar
-          	     </h2>
+          	     </h1>
                 <div className = "App-header-p">
-                    Junior Software Developer
+                    Developer | Designer | Creator
                 </div>
                         <div className = "App-header-p">
-                    Scroll down to learn more about me!
+                    Use the sidebar on the left to learn more about me!
                 </div>
                 <br></br>
                 <br></br>
                 <br></br>
                 <img src={down} alt="down" className = "App-down"/>
        	    </header>
-              <Card body className="text-center">
-        <CardTitle>Special Title Treatment</CardTitle>
-        <CardText>With supporting text below as a natural lead-in to additional content.</CardText>
-        <Button>Go somewhere</Button>
-      </Card>
+   
+
 
     	</div>
         

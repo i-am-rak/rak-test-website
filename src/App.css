@@ -35,11 +35,33 @@
   color: black;
 }
 
+.App-title {
+    text-align:left;
+    margin-left:15vmin;
+    font-size: calc(5px + 5vmin);
+}
+
+.App-body {
+    text-align:left;
+    margin-left:5vmin;
+    font-size: calc(10px + 1vmin);
+}
+
+.App-header-t {
+    font-size: calc(5px + 5vmin);
+}
+
 .App-header-p {
     font-size: calc(8px + 2vmin);
 }
 .App-link {
 	color: #61dafb;
+}
+
+.App-testcard{
+    margin-left:15vmin;
+    margin-right:15vmin;
+
 }
 
 .bm * {
@@ -93,6 +115,7 @@
 .bm-item-list {
   color: #b8b7ad;
 }
+
 
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
